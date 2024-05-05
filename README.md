@@ -1154,6 +1154,7 @@
 *   Telegram Memes:[https://t.me/MemesTelegram](https://t.me/MemesTelegram)
 *   Instant View Contest News:[https://t.me/IVcontest](https://t.me/IVcontest)
 *   Telegram BotNews:[https://t.me/BotNews](https://t.me/BotNews)
+*   顶级开源项目分享:[https://t.me/top_opensource_project](https://t.me/top_opensource_project)
 *   Katalog Telegram:[https://t.me/katalogtelegram](https://t.me/katalogtelegram)
 *   Telegram iOS Beta Slots:[https://t.me/tgslots](https://t.me/tgslots)
 *   Telegram Blog Secrets:[https://t.me/tgblog_secrets](https://t.me/tgblog_secrets)
