@@ -6,7 +6,8 @@
 -->
 ##### 推广
 
-*   广告位招商，有意@ itgoyo@gmail.com   【中国人不骗中国人，不接黄赌毒、政治、敏感、等不良广告】
+*   广告位招商，有意@ echo.qingwen@gmail.com 【中国人不骗中国人，不接黄赌毒、政治、敏感、等不良广告】
+* twitter: https://twitter.com/shadouyoua   
 
 <table>
   <tr>
@@ -59,8 +60,10 @@
 
 国内便宜云主机：莱卡云 https://www.lcayun.com/aff/RRECTRHQ   香港 CN2 GIA ￥35
 
-##### 推荐[](https://congcong0806.github.io/2018/04/24/Telegram/#%E6%8E%A8%E8%8D%90)
+##### 推荐
 
+*   顶级开源项目分享频道 [https://t.me/top_opensource_project](https://t.me/top_opensource_project)
+* Hacker News中文摘要频道 [https://t.me/hackerNewsSummary007]
 *   Telegram 客户端界面中文汉化:[https://t.me/yxbjx/2255803](https://t.me/yxbjx/2255803)
 *   Telegram 知识库:[https://t.me/YinxiangBiji_News/954](https://t.me/YinxiangBiji_News/954)
 *   Telegram 中文频道:[https://t.me/YinxiangBiji_News](https://t.me/YinxiangBiji_News)
@@ -69,6 +72,7 @@
 *   Telegram 超级搜索🔥超级搜索🔥搜片神器🔥中文搜索🔥TG 神器🔥中文群组🔥:[https://t.me/chaojisoso520](https://t.me/chaojisoso520)
 *   Telegram 全网直播回放🔥抖音🔥斗鱼🔥虎牙🔥B站🔥等等🔥:[https://t.me/luzhiob](https://t.me/luzhiob)
 *   Telegram 找到有趣的群🔥频道🔥视频🔥音乐🔥电影🔥新闻🔥i快搜:[https://t.me/ikuaisobot](https://t.me/ikuaisobot?start=2114110836)
+
 
 ### 群组 Group[](https://congcong0806.github.io/2018/04/24/Telegram/#%E7%BE%A4%E7%BB%84-group)
 
@@ -1155,6 +1159,7 @@
 *   Telegram Memes:[https://t.me/MemesTelegram](https://t.me/MemesTelegram)
 *   Instant View Contest News:[https://t.me/IVcontest](https://t.me/IVcontest)
 *   Telegram BotNews:[https://t.me/BotNews](https://t.me/BotNews)
+*   顶级开源项目分享:[https://t.me/top_opensource_project](https://t.me/top_opensource_project)
 *   Katalog Telegram:[https://t.me/katalogtelegram](https://t.me/katalogtelegram)
 *   Telegram iOS Beta Slots:[https://t.me/tgslots](https://t.me/tgslots)
 *   Telegram Blog Secrets:[https://t.me/tgblog_secrets](https://t.me/tgblog_secrets)
