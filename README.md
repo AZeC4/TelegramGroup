@@ -1144,7 +1144,7 @@
 *   济南:[https://t.me/jinan_tg](https://t.me/jinan_tg)
 *   郑州:[https://t.me/zhengzhoutg](https://t.me/zhengzhoutg)
 *   武汉:[https://t.me/joinchat/AAAAAEPsBibY4oIaHgjIwg](https://t.me/joinchat/AAAAAEPsBibY4oIaHgjIwg)
-*   西安:[https://t.me/joinchat/FY1SJkRF6ubEQzU-3Mq3cw](https://t.me/joinchat/FY1SJkRF6ubEQzU-3Mq3cw)
+*   西安:[https://t.me/ydcxxystd](https://t.me/ydcxxystd)
 *   温州:[https://t.me/joinchat/AAAAAApGjPVlDbXwYSj1IA](https://t.me/joinchat/AAAAAApGjPVlDbXwYSj1IA)
 *   宁波:[https://t.me/joinchat/IDzvnxAU9yCEh6vx4RQrPg](https://t.me/joinchat/IDzvnxAU9yCEh6vx4RQrPg)
 *   河南郑州:[https://t.me/hnzzs](https://t.me/hnzzs)
