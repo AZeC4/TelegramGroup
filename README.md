@@ -1177,6 +1177,7 @@ I am requesting for removal of account limitations.
 *   键盘交流群:[https://t.me/keyboard_cn](https://t.me/keyboard_cn)
 *   闲蛋面板🥚交流群:[https://t.me/xdzzmb](https://t.me/xdzzmb)
 *   加密货币爱好者:[https://t.me/twittercryptofans](https://t.me/twittercryptofans)
+*   流量卡/物联卡/靓号/话费8折充/聚合支付云闪付:[https://t.me/flowcard](https://t.me/flowcard)
 
 ### 播客
 *   一天世界:[https://t.me/ipn_yitianshijie](https://t.me/ipn_yitianshijie)
