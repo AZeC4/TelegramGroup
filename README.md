@@ -1328,6 +1328,7 @@ I am requesting for removal of account limitations.
 
 ### 其他
 
+*   UNRAID 中文讨论组:[https://t.me/unraid_zh](https://t.me/unraid_zh)
 *   Coder Offtopic 中文群:[https://t.me/coder_ot](https://t.me/coder_ot)
 *   BoastTG:[https://t.me/BoastTG](https://t.me/BoastTG)
 *   Steam&PlayStation&Xbox&Switch:[https://t.me/ps4cn2](https://t.me/ps4cn2)
