@@ -1783,6 +1783,8 @@ I am requesting for removal of account limitations.
 *   阿里云盘资源发布频道:[https://t.me/shareAliyun](https://t.me/shareAliyun)
 *   二手🐴:[https://t.me/SecHorse](https://t.me/SecHorse)
 *   用爱发电俱乐部:[https://t.me/NotionFans](https://t.me/NotionFans)
+*   精选壁纸 @free_phone_background:[https://t.me/free_phone_background](https://t.me/free_phone_background)
+*   精美壁纸 @phoneBackgroundBot:[https://t.me/phoneBackgroundBot?startapp=aWQ9MTU1MA](https://t.me/phoneBackgroundBot?startapp=aWQ9MTU1MA)
 
 
 ### 其他
@@ -2050,6 +2052,7 @@ I am requesting for removal of account limitations.
 *   苍穹の下・SKY 的 Blog:[https://t.me/blueskyxnblog](https://t.me/blueskyxnblog)
 *   瞎玩菌:[https://t.me/blindgamer](https://t.me/blindgamer)
 *   Tesla China 🅥:[https://t.me/Teslacn](https://t.me/Teslacn)
+*   精选壁纸 @free_phone_background:[https://t.me/free_phone_background](https://t.me/free_phone_background)
 
 ##### 机器人 Bot
 
@@ -2219,6 +2222,7 @@ I am requesting for removal of account limitations.
 *   [Telegram Bot List](https://github.com/eternnoir/pyTelegramBotAPI#bots-using-this-api)
 *   [Telegram Bot Store](https://storebot.me/)
 *   [Telegram Bots](https://blog.rawstack.co/post/telegram-bots)
+*   [精美壁纸 @phoneBackgroundBot](https://t.me/phoneBackgroundBot?startapp=aWQ9MTU1MA)
 
 ## 社交媒体
 
