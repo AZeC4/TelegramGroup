@@ -67,9 +67,7 @@
 | 临时情侣 | [https://t.me/+k4EkWp6n6_c4YzJk](https://t.me/+k4EkWp6n6_c4YzJk)|  骗子(Scammer)    |
 | 心动时刻 | [https://t.me/+ztiIRQ64r_ZmNzA8](https://t.me/+ztiIRQ64r_ZmNzA8)|  骗子(Scammer)    |
 | 少妇人妻熟女控 | [https://t.me/+1fnHjs39G9thZTE0](https://t.me/+1fnHjs39G9thZTE0)|  骗子(Scammer)    |
-| 女大学生交流群 | [https://t.me/+p0-dRLFDmcc5ZDA1](https://t.me/+p0-dRLFDmcc5ZDA1)|  骗子(Scammer)    |
 | 每日直播频道 | [https://t.me/+kPIbhhy9RSRhMmE0](https://t.me/+kPIbhhy9RSRhMmE0)|  骗子(Scammer)    |
-| 每日约炮日报 | [https://t.me/+PdKAbnJn6IUyZmQ0](https://t.me/+PdKAbnJn6IUyZmQ0)|  骗子(Scammer)    |
 
 ### 推广
 | 名字       | 链接                                                                 | 功能描述                                   |
