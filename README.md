@@ -25,7 +25,6 @@
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量 |
-| 快连      |       [官网](https://8m5tnb.onelink.me/0Iq2/ozre7hac)      | 支持试用，全网人数使用最多的VPN，客户端运行小白用户推荐 |
 |ClaudeCode中转站|[https://shop.xuedingtoken.com](https://shop.xuedingtoken.com/?dist=PGNXFC8B)|ClaudeCode满血版支持Opus 4.61元/1刀，24 小时发货|
 | ⚡️能量闪租⚡️     |       **`TGuXv6H1s84cmQZk7akvWHC6P789999999`**      | 🟩1笔USDT转帐能量: 3TRX </br> 🟨2笔USDT转帐能量: 6TRX |
 | 币圈必备学习资料   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)，币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)  |
