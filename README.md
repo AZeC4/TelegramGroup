@@ -59,7 +59,7 @@
 |景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
 | 反差 | [https://t.me/+_6il9cjOcvcxNTRk](https://t.me/+_6il9cjOcvcxNTRk)|  骗子(Scammer)    |
 | 少萝 | [https://t.me/+crSY4fHTrhg4OGY0](https://t.me/+crSY4fHTrhg4OGY0)|  骗子(Scammer)    |
-| 女主播 | [https://t.me/+p-1a-TJyFhc4NWE0](https://t.me/+p-1a-TJyFhc4NWE0)|  骗子(Scammer)    |
+| 女主播 | [https://t.me/+1S22pfuF89s1MmJk](https://t.me/+1S22pfuF89s1MmJk)|  骗子(Scammer)    |
 | 女大学生 | [https://t.me/+9juisuq5nJBhNGNk](https://t.me/+9juisuq5nJBhNGNk)|  骗子(Scammer)    |
 | 围场少女 | [https://t.me/+OG4laFcGeW00ODdk](https://t.me/+OG4laFcGeW00ODdk)|  骗子(Scammer)    |
 | 临时情侣 | [https://t.me/+k4EkWp6n6_c4YzJk](https://t.me/+k4EkWp6n6_c4YzJk)|  骗子(Scammer)    |
