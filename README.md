@@ -41,7 +41,7 @@
 | 搜索群②   | [@jiso5173](https://t.me/jiso5173)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
 | 搜索群③   | [@jisoubar](https://t.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
 | 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
-| 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
+| 素材大师 | [@sucaidashi](https://t.me/sucaidashi) | 精修的朋友圈，出门在外身份都是自己给的 |
 | 电报搜索群   | [@seseccavsese](https://t.me/seseccavsese)             | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
 | 👚AI换装机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=NJOTH8D6MF7PYIL8)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
