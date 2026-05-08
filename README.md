@@ -54,7 +54,7 @@
 ### 曝光不良频道，请勿轻信(Expose harmful channels. Do not trust.)
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|景福宫高端商务|[https://t.me/+Xs8HXIPh_Gg1NDll](https://t.me/+Xs8HXIPh_Gg1NDll)|真实性不清楚，请勿轻信上当|
+|景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
 | 反差 | [https://t.me/+_6il9cjOcvcxNTRk](https://t.me/+_6il9cjOcvcxNTRk)|  骗子(Scammer)    |
 | 少萝 | [https://t.me/+crSY4fHTrhg4OGY0](https://t.me/+crSY4fHTrhg4OGY0)|  骗子(Scammer)    |
 | 女主播 | [https://t.me/+1S22pfuF89s1MmJk](https://t.me/+1S22pfuF89s1MmJk)|  骗子(Scammer)    |
