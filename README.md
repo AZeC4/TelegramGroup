@@ -37,7 +37,7 @@
 | 💎电报会员机器人   | [@tg2vipbot](https://t.me/tg2vipbot)或[@vip2tgbot](https://t.me/vip2tgbot)| 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人。会员自动开通机器人  欢迎大家免费克隆 1秒免费做同款机器人，赚美金usdt、自动开通会员、全网最低价格、9大功能让你拥有自己的机器人|
 | 💎电报哥电报会员手动充值   | [http://shop.tg10000.com](http://shop.tg10000.com)            | 低价开通电报会员，转账会查来源https://misttrack.io/aml_risks ，高风险地址充值过来不退还，也不会充值，购买之前请自行验证钱包地址，推荐使用币安、欧易等交易所直接购买👉 三个月：109元；👉 六个月：149元；👉 十二个月：259元，别的钱包转账不返还也不会充值，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费。充值通知群:[@tgviptongzhi](https://t.me/tgviptongzhi)|
 | 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
-| **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/banyunchanel)|
+| **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/xiunvyewu)|
 | 搜索群①   | [sousou20w](https://t.me/sousou20w)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
 | 搜索群②   | [@jiso5173](https://t.me/jiso5173)            | 可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
 | 搜索群③   | [@jisoubar](https://t.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切(加群要过人机校验，防止刷子)   |
@@ -108,10 +108,10 @@
 | 修女频道搬运                                | 搬运整个频道10U,自行联系[@tgxiunv](https://t.me/tgxiunv) | 10U   |
 | 自动按钮机器人                                | 使用教程:[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs) [@xiunvanniu_bot](https://t.me/xiunvanniu_bot)      |    50U          |
 |消息提取机器人(破解私密频道无法下载保存转发神器)                                | 提供源码及搭建服务         | 50U             |
-| 免费频道搬运机器人   |免费机器人[@xnby08bot](https://t.me/xnby08bot)支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)|搭建机器人可联系：[@tgxiunv](https://t.me/tgxiunv) 100U [通知群](https://t.me/banyunchanel)|
-| **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听无数量限制 👉 [使用教程](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 搭建机器人可联系：[@tgxiunv](https://t.me/tgxiunv) 100U [通知群](https://t.me/banyunchanel)|
-| **频道监听转发机器人加强版**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，同时支持搬运，AI去广告、AI加标签、AI改写等功能 | 200U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/banyunchanel) |
-| **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话 👉 [使用教程](https://www.youtube.com/watch?v=26233nZyAcU)| 搭建机器人可联系：[@tgxiunv](https://t.me/tgxiunv) 200U [通知群](https://t.me/banyunchanel)|
+| 免费频道搬运机器人   |免费机器人[@xnby08bot](https://t.me/xnby08bot)支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)|搭建机器人可联系：[@tgxiunv](https://t.me/tgxiunv) 100U [通知群](https://t.me/xiunvyewu)|
+| **频道监听转发机器人**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听无数量限制 👉 [使用教程](https://www.youtube.com/watch?v=pqfTzfCFgxg) | 搭建机器人可联系：[@tgxiunv](https://t.me/tgxiunv) 100U [通知群](https://t.me/xiunvyewu)|
+| **频道监听转发机器人加强版**   | 可以监听别的频道更新自动同步到你的频道，测底解放双手，监听没有数量限制，同时支持搬运，AI去广告、AI加标签、AI改写等功能 | 200U/[@tgxiunv](https://t.me/tgxiunv) [通知群](https://t.me/xiunvyewu) |
+| **关键字听转机器人**   | 可以监听账号所有群组频道会话，检测到关键字立马机器人通知，点击可以跳转会话 👉 [使用教程](https://www.youtube.com/watch?v=26233nZyAcU)| 搭建机器人可联系：[@tgxiunv](https://t.me/tgxiunv) 200U [通知群](https://t.me/xiunvyewu)|
 | tdl                          | 电报下载神器搭建,自行联系[@tgxiunv](https://t.me/tgxiunv)，使用教程:[视频教程](https://www.youtube.com/watch?v=h_r1_I6Busk)| 50U或¥300   |
 | 直播录制软件      | [软件安装教程](https://www.bilibili.com/video/BV1XqHkzCEpN/) | 可实现自动录制全网直播，自动投稿到B站上,不会可以找我帮搭建¥300           |
 | 波场靓号生成器(8a、9a、10a等豹子顺子靓号)                         | 电脑有显卡直接跑，跑出来的速度看显卡 | 100U            |
