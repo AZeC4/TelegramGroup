@@ -17,10 +17,10 @@
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | **新币搜索** | [@xbso](https://t.me/xbso1?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
-| **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_7202424896) | 先改成中文用户名再搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT，投放广告，充值优惠👉 [领取收益](https://t.me/soso?start=usecode_7202424896)|
+| **SOSO机器人** | [@soso](https://t.me/sosoo?start=a_7202424896) | 先改成中文用户名再搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT，投放广告，充值优惠👉 [领取收益](https://t.me/soso?start=usecode_7202424896)|
 | **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
 | 极搜JiSou  |  [@jisou](https://t.me/jisou2?start=a_7202424896)               | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻，投放广告，享受5%的充值优惠👉 [领取收益](https://t.me/jisou?start=ad_366951)|
-| JISO | [@jiso](https://t.me/jiso?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
+| JISO机器人 | [@jiso](https://t.me/jiso?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_629488182)                  | 发送词语即可搜索关联群组与频道资源，连续签到一周送3USDT        |
 | **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻，充值优惠👉 [领取收益](https://t.me/kuai?start=ad_3B44YPB)|
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
