@@ -24,6 +24,7 @@
 | 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_629488182)                  | 发送词语即可搜索关联群组与频道资源，连续签到一周送3USDT        |
 | **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻，充值优惠👉 [领取收益](https://t.me/kuai?start=ad_3B44YPB)|
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
+|海搜|[@haisou](https://t.me/haisou?start=a_7202424896)|发送关键词，即可发现频道、群组、视频、音乐、图片、文件与帖子|
 | **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
 | **🚀 机场推荐** | [@jichang101](https://github.com/vpnnav/jichang101) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
 | **🤖 AI导航站** | [https://ai.0xnav.com/](https://ai.0xnav.com/) | AI工具集官网| 10000+ AI工具集合，国内外AI工具集导航大全 |
