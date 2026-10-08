@@ -15,8 +15,10 @@
 | 海搜 | [@haisou](https://t.me/haisou?start=a_7202424896) | 发送关键词，即可发现频道、群组、视频、音乐、图片、文件与帖子：[广告优惠](https://t.me/haisou?start=ad_0BfBQwENKcev) |
 | JISO 机器人 | [@jiso](https://t.me/jiso?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
 | 极搜 JiSou | [@jisou](https://t.me/jisou2?start=a_7202424896) | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻，投放广告，享受 5% 的 [广告优惠](https://t.me/jisou?start=ad_366951) |
+| **新币搜索** | [@xbso](https://t.me/xbso1?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
 | 神马搜索（签到有收益） | [@smss](https://t.me/smss?start=spread_629488182) | 发送词语即可搜索关联群组与频道资源，连续签到一周送 3 USDT |
 | 快搜 | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻：[广告优惠](https://t.me/kuai?start=ad_3B44YPB) |
+| **海搜** | [@haisou](https://t.me/haisou?start=a_7202424896) | 发送关键词，即可发现频道、群组、视频、音乐、图片、文件 |
 | 超级索引 | [@CJSY](https://t.me/CJSY?start=7202424896) | 发送词语即可搜索关联群组与频道资源 |
 | 搜索群 | [@sousou20w](https://t.me/sousou20w) | 可以在里面搜索你想要的一切（加群要过人机校验，防止刷子） |
 | 搜索群 | [@jiso5173](https://t.me/jiso5173) | 可以在里面搜索你想要的一切（加群要过人机校验，防止刷子） |
