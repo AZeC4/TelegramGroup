@@ -43,6 +43,7 @@
 | Bot Store | [@storebot](https://t.me/storebot) | 机器人商店，索引了各种机器人，可以寻找自己感兴趣的 |
 | TChannelsBot | [@tchannelsbot](https://t.me/tchannelsbot) | 索引了很多 Channel，可以寻找自己感兴趣的 Channel |
 | 搜书机器人 | [@zlibrarybot](https://t.me/zlibrarybot) | 搜书机器人 |
+| Tiny Telegram Tools | [@TinyTelegramToolsBot](https://t.me/TinyTelegramToolsBot?start=azec4) | 全能工具机器人：匿名收件箱、提醒与倒计时、群组记账、习惯打卡、活动管理，配套 Mini App 套件。免费使用，部分工具支持一次性 150 Stars 解锁 Pro，支持俄语/英语 |
 | Nexus Search | [@libgen_scihub_bot](https://t.me/libgen_scihub_bot) | 搜书机器人 |
 | BookDown | [@bookdownbot](https://t.me/bookdownbot) | 搜书机器人 |
 | Wikipedia Search | [@wiki](https://t.me/wiki) | Wikipedia 搜索 |
