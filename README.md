@@ -581,7 +581,6 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 | Telo News 简体中文 | <https://t.me/telonews_cn> | 最新的加密货币新闻，观点和评论 |
 | NFT/METAVERSE | <https://t.me/NFTsworld7> | A gateway to the digital world |
 | Crypto News & Tech Updates | <https://t.me/Crypto_News_and_Tech_Updates> | #1 Source For Crypto Education |
-| Financial News And Report | <https://t.me/financialnews666> | 平时主要发国内外宏观策略 |
 | Business & Finance News USA Edition | <https://t.me/news_finance> | The source for business news |
 | 财经慢报 | <https://t.me/Financial_Express> | 附属群组 @Financial_Express |
 | 7×24 投资快讯 | <https://t.me/golden_wind_news> | 24 小时投资相关的快讯 |
@@ -981,7 +980,6 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 | 大数据杂谈 | <https://t.me/bigdatazh> | 大数据杂谈 |
 | Frontend 前端中文技术交流 | <https://t.me/frontend_talk> | Frontend 前端 |
 | Hexo 博客交流 | <https://t.me/hexozh> | Hexo 博客交流 |
-| Hugo 博客交流 | <https://t.me/hugoblog> | Hugo 博客交流 |
 | ZeroNet 中文交流 | <https://t.me/zeronetzh> | ZeroNet 中文 |
 | 体育爱好者 / 足球 / 篮球 / NBA/CBA 交流 | <https://t.me/tiyu365> | 体育爱好者 |
 | Wallpapers 壁纸 | <https://t.me/G_Wallpapers> | Wallpapers 壁纸 |
@@ -1066,7 +1064,6 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 | Ubuntu 中文 | <https://t.me/ubuntuzh> | Ubuntu 中文 |
 | Java/Android 开发交流 | <https://t.me/java_android_dev> | Java/Android 开发 |
 | Hexo 博客交流 | <https://t.me/hexozh> | Hexo 博客 |
-| Hugo 博客交流 | <https://t.me/hugoblog> | Hugo 博客 |
 | Frontend 前端中文技术交流 | <https://t.me/frontend_talk> | Frontend 前端 |
 | 大数据杂谈 | <https://t.me/bigdatazh> | 大数据杂谈 |
 
@@ -1177,7 +1174,6 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 - WSB 华尔街中文社区: <https://t.me/WSBetsZH>
 - 华尔街日报 RSS: <https://t.me/wsj_rss>
 - Satoshi Street Bets 中本街社区: <https://t.me/SatoshiStreetBetsZH>
-- tsuPro Talk: <https://t.me/tsuPorn>
 - 想尽办法看电视: <https://t.me/joinchat/MgUQ3B1apkzq3sqVzTFP0A>
 - 一起充电群: <https://t.me/letsbuycharger>
 
@@ -1217,7 +1213,6 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 - Telegram iOS Beta Testing: <https://t.me/tgiostests>
 - Telegram iOS Talk: <https://t.me/TelegramiOStalk>
 - Telegram Android Talk: <https://t.me/TelegramAndroidTalk>
-- Telegram Alpha Talk: <https://t.me/tgalphachat>
 - TDLib chat: <https://t.me/tdlibchat>
 - Telegram X Android: <https://t.me/tgandroidtests>
 - Telegram macOS: <https://t.me/macswift>
@@ -1396,7 +1391,6 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 - Pin: <https://t.me/PinTG>
 - 奇点: <https://t.me/jidian>
 - Thor: <https://t.me/thorshu>
-- Thor HTTP Sniffer: <https://t.me/thoranubis>
 - Thor/HTTP/JSBox/捷径/Cydia 交流群: <https://t.me/yqc_666>
 - Pythonista 3: <https://t.me/Pythonista3jiaoliuqun>
 - iTools: <https://t.me/toolinbox>
@@ -1760,7 +1754,6 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 - VPS 简测: <https://t.me/vps_test>
 - VPS.Dance VPS+IPLC: <https://t.me/vpsdance>
 - 主机情报 优惠 补货 测评: <https://t.me/hostcab>
-- VPS Sale/Restock Alerts: <https://t.me/vps_alerts>
 - Monitor Captain: <https://t.me/monitor_captain>
 - HostMonit - 全球主机补货通知: <https://t.me/hostmonit>
 - BuyVM 补货通知（非官方）: <https://t.me/buyvmchannel>
@@ -2066,7 +2059,6 @@ api-hash: a3406de8d171bb422bb6ddf3bbd800e2
 - 日常人间观察: <https://t.me/hayami_kiraa>
 - In The Flux: <https://t.me/intheflux>
 - 无逸斋随笔: <https://t.me/todayread>
-- 落枕电波: <https://t.me/Bakage1016>
 - 屏浅隐狱: <https://t.me/peopleofscreen>
 - 擅长搜索的高木同学: <https://t.me/gaomutongxue>
 - 开源社区频道: <https://t.me/opencfdchannel>
