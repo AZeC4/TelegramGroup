@@ -21,6 +21,7 @@
 | 搜索群 | [@sousou20w](https://t.me/sousou20w) | 可以在里面搜索你想要的一切（加群要过人机校验，防止刷子） |
 | 搜索群 | [@jiso5173](https://t.me/jiso5173) | 可以在里面搜索你想要的一切（加群要过人机校验，防止刷子） |
 | 电报搜索群 | [@seseccavsese](https://t.me/seseccavsese) | 可以在里面搜索你想要的一切（加群要过人机校验，防止刷子） |
+| 账号星球 | [accountboy.com](https://accboy9tgge.accountboy.com/) | 海外账号：境外 Apple ID、Google 账号、Telegram、X（推特）、TikTok、Instagram、Facebook、Discord 等社交与通讯账号 |
 
 ### 2. TG 中文群组索引机器人
 
